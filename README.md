@@ -8,7 +8,7 @@ Este projeto utiliza o [Create React App](https://github.com/facebook/create-rea
 
 Você precisará ter apenas o [NodeJS](https://nodejs.org) instalado na sua máquina, e após isso, clonar este repositório:
 ```sh
-  $ git clone https://github.com/LucasVSDev/task-manager.git
+  $ git clone https://github.com/LucasVSDev/gerenciador-de-usuarios.git
 ```
 
 Depois disso acesse a pasta do projeto e instale as dependências executando o seguinte comando:
